@@ -11,7 +11,6 @@ As an aspiring computer scientist, I am captivated by the dynamic interplay betw
 
 Beyond my scholarly endeavors, I actively engage in collaborative projects, hackathons, and community-driven initiatives within both the computer science and mathematics spheres. I firmly believe in the transformative power of collaboration and interdisciplinary approaches to foster innovation and surmount intricate challenges.
 
----
 
 ## Recent Posts
 
@@ -22,19 +21,18 @@ Beyond my scholarly endeavors, I actively engage in collaborative projects, hack
 ### [Post Title 3](link_to_post_3)
 
 
----
 
 ## Featured Investigation
 
 ### [Investigation Title](link_to_investigation)
 
----
+
 
 ## Other Projects
 
 More projects soon
 
----
+
 
 ## Contact Me
 
