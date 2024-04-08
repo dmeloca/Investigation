@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Math Investigations
 ---
 ## About Me
