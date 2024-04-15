@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "El cero detrás de las matemáticas"
+title: "El-cero-detras-de-las-matemáticas"
 permalink: /posts
 ---
 # El cero detrás de las matemáticas
