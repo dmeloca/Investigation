@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "El cero detrás de las matemáticas"
 date: 2024-04-14
 ---
