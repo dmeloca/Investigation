@@ -3,7 +3,7 @@ title: Math Investigations
 ---
 
 ## Posts
-### The zero behind math [spanish]({% post_url 2024-04-14-the-zero-behind-math.es %})
+### The zero behind math [spanish]({% post_url 2024-04-14-post %})
 
 ## About Me
 ### [Information](https://estfloyd.github.io/Math-Posting/about.html)
