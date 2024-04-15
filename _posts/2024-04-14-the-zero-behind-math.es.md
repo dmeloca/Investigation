@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "El cero detrás de las matemáticas"
-date: 2024-04-14 23:26:00 -0000
-categories: set-teory group-theory zero
+date: 2024-04-14
 ---
 # El cero detrás de las matemáticas
 En los axiomas de Peano, usados para la construcción de los números naturales y además para las pruebas de inducción matemática, originarón unas de las discusiones más intrigantes de la matemática: ¿Es el cero un elemento de los naturales? 
