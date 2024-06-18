@@ -17,6 +17,6 @@ This repository serves as a unique platform dedicated to hosting investigations 
 
 
 ## Author <a name = "author"></a>
-- [@Daniel Melo](https://github.com/estfloyd)
+- [@Daniel Melo](https://github.com/dmeloca)
 
 
