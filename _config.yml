@@ -1,7 +1,7 @@
 remote_theme: pages-themes/slate@v0.2.0
 #theme: minimal
 gem "github-pages", group: :jekyll_plugins
-title: Math Posting
+title: Investigation
 markdown: kramdown
 kramdown:
     math_engine: katex
