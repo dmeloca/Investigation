@@ -1,4 +1,4 @@
-<h1 align="center">Math Posting</h1>
+<h1 align="center">Investigation</h1>
 <div align="center">
   
 [![Repo Page](https://img.shields.io/badge/GitHub-Page-blue?style=plastic&logo=github)](https://estfloyd.github.io/Math-Posting/)
